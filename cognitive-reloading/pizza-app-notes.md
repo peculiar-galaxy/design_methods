@@ -65,3 +65,62 @@ It looks like you've mastered the foundations of pizza making! Would you like to
 
 
 
+## Za Hero
+
+- Ordinary world : Intro screen hook: "You are in an ordinary world. You don't know yet that you are the hero."
+- Ready to bake? Accept the Call to Adventure (Let's Bake!). Refuse the Call (Quit App)
+- Meet your Mentor: drunk pizza wizard frog - peperoni and cheese hat. *hic* Some days he is more forgetful than others, so pay attention when he dispenses wisdom.
+- Ingredients list
+- The threshold - begin cooking
+- Trials
+- The Oven Underworld
+- Rebirth - the pizza emerges from the oven
+- Seizing the sword - Pizza cutter
+- Reward - eat a slice
+- Return with elixir of knowledge.
+
+
+First-Time Ingredients:
+- Just volume?
+
+First-Time Instructions:
+- Proofing yeast (picture)
+     - warm water (30 sec microwave, nice bathwater, can leave finger in without it getting too hot)
+     - add yeast and water to large bowl
+     - wait 5 mins
+     - check if yeast has bubbled
+     - if nothing, add more yeast, wait longer? Or you may have bad yeast.
+- Kneading dough (picture)
+     - add salt, oil, and flour. 
+     - mix by hand or mixer
+     - knead for 5 min by mixer, 10 min by hand.
+- Proofing dough (picture)
+     - add a lil more oil to the bowl.
+     - pull the dough into a ball and place in the bowl
+     - cover and leave somewhere warm for a few hours or until doubled
+
+Quiz
+
+How much oil do you need?
+How much water?
+
+Second time.
+- Weigh by grams?
+
+Final Instructions
+- Just pictures and numbers (hidden, click to show)
+
+Pixel art in Krita:
+- flour bag
+- yeast jar
+- salt pile
+- water cup
+- oil bottle
+
+- bowl of warm water
+- bowl with yeast
+- 
+
+
+
+
