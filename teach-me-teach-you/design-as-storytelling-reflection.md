@@ -1,0 +1,5 @@
+I thought the "Future Stuff" and "Forced Connections" tools were most resonant with me! The "Future Stuff" tool had an example of using cards to pull events and concepts to imagine possible futures, while "Forced Connections" threw topics and descriptors at you to get you to think through how novel combinations might be forged.
+
+This reminds me of how I approach Tarot cards. Rather than using Tarot for predictive divination, I like to pull a few cards, and try to interpret their symbols as new stories, using them as inspiration to explore possible futures and present conditions. Some cards raise questions which others suggest answers to, and my reactions to the cards and ideas that bubble up for me can say as much as the cards themselves.
+
+Using randomization and symbols as presented by the tools in the book (and in Tarot) can create very interesting results!
