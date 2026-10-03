@@ -2,7 +2,14 @@
 
 Logan's initial drawing did a very good job at capturing the flavor of my story of learning ceramics and some of my current struggles with the process of creation and experimentation. 
 
+
+### Logan's Sketch
+![logans-drawing](./logans-artifact.jpg)
+
 In my response to Logan's artifact, I wanted to maintain his process of 'intuitive sketching'. Whereas I typically plan my compositions and do initial line art in pencil, I chose to follow his technique and sketch with pen instead and let the drawing evolve without a plan. 
+
+### My Sketch
+![my drawing](./my-artifact.jpg)
 
 The drawing evolved quite a bit. Honestly, I think my version turned out a bit... creepy looking 😅, but I think this is because I was focusing on the hurdles and challenges in my learning and creation process. For instance, Logan's depiction of my decision tree evolved into antlers growing from my head, his broken pot became a whole field of toothy potsherds, and my cyclical process of prototyping became goblets pouring into one another, held in three arms. 
 
@@ -11,13 +18,26 @@ Observations from the interview and sketching ✍️
  
 One of the biggest barriers in my learning process is the worry that I am not going to do justice to the raw materials that I am making things with. I worry when learning to bake a new, experimental dish that I am going to waste good ingredients that could have been put to better use. I am hesitant to draw on nice paper, use good paint, or fresh raw clay, cut into a new bolt of fabric... This is symbolized in Logan's and my drawings by the autumn leaves - illustrating the idea of decay, worry about the environmental impacts, and my recurring attempts to use scraps and offcuts to 'compost' into something new.
 
-This concept of ruining materials does not translate very well to the digital illustration tool I previously chose to learn on, because you can always go back and reset and you aren't using up any physical materials in the process. However, it does translate very directly to one of my current experimental learning projects in ceramics. I am trying to make a series of ceramic vessels for a tea ceremony. I have finally created and fired a set of 14, but now need to glaze them. This is my first time working on a large set, which necessitates a significant time investment and makes the project stakes feel much higher. I have a choice whether to glaze them in a 'safer' glaze, or something more bold and impactful, but that has very unpredictable results in the kiln. I have stagnated at this decision point for a while, and want to use this identification of sitting with the 'fear of wasting and ruining things' in my learning process to motivate me to glaze my pieces with the wilder glaze.
+This concept of ruining materials does not translate very well to the digital illustration tool I previously chose to learn on, because you can always go back and reset and you aren't using up any physical materials in the process. However, it does translate very directly to one of my current experimental learning projects in ceramics. I am trying to make a series of ceramic vessels for a tea ceremony, which mimic the forms of local lichens. I have finally created and fired a set of 14, but now need to glaze them. This is my first time working on a large set, which necessitates a significant time investment and makes the project stakes feel much higher. I have a choice whether to glaze them in a 'safer' glaze, or something more bold and impactful, but that has very unpredictable results in the kiln. I have stagnated at this decision point for a while, and want to use this identification of sitting with the 'fear of wasting and ruining things' in my learning process to motivate me to glaze my pieces with the wilder glaze.
 
 SMART Goal 🎯
 -
 
 By Wednesday, I want to have glazed my ceramic set in my unpredictable glaze, and have sent them to the kiln for firing before I change my mind...
 (*I shudder to write this, so I know it is a worthy goal*)
+
+
+Goal Results 👑
+-
+
+### Prototype Series
+![prototype series](./results-from-SMART-goal/prototype-series.jpg)
+
+### Pieces in Progress
+![in progress](./results-from-SMART-goal/in-progress.jpg)
+
+### Glazed and Ready to Fire...
+![glazed and ready to fire](./results-from-SMART-goal/glazed-and-ready-to-fire.jpg)
 
 
 Observations from the Reading 🕷️🕸️🧠
