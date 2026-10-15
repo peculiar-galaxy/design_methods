@@ -1,10 +1,10 @@
 # Multisensory Space
 
-## Inspirations
+## Inspiration
 
-- Traditional Japanese Tea House 🍵
-- The Hollow of a Mossy Tree Stump 🪾
-- The feeling of being small in a big world 🌱
+The time I felt most at peace with the world was in the temperate rainforest of the Pacific Northwest, when I knelt and hugged a clump of moss that was bigger than I was. The world felt so vast, and yet, friendly. I was held, fully, for a moment by the spongy softness of the moss, the aroma of the forest floor, and the quiet rustling of the trees.
+
+I want to recreate this experience of humility, natural connection, and peace for my micro-environment. My inspiration is combining the calming aesthetics of a traditional Japanese tea house with the hollow of a mossy tree stump, and creating the feeling of being a small creature in a big world.
 
 ## Space Diagram
 
@@ -34,4 +34,7 @@ Nearby the cups, there is a spigot emerging from the wall with a wide, curved le
 
 The cookies are a shortbread flavored with powdered pine needles. They are buttery, lightly sweetened, and the pine needles give them a bright, lemony, forest flavor.
 
+## Sensory Prototypes
+![Sensory Prototype image](./sensory-prototype.jpg)
 
+I modeled the ceramic plate and cup after lichens. The cookies are a store-bought placeholder, but I hope to bake some real pine-needle shortbread and see how it turns out! I also hope to brew a forest-y tea and see if the aroma is calming, if the heat transfers pleasantly from the cup to the hand, and if the organically-shaped rim of the cup is pleasant to drink from.
