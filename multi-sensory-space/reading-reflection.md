@@ -1,0 +1,9 @@
+# Reading Reflection 
+
+Before the reading, I had been trying to reflect on signifiers and affordances, but Chapter 4 definitely gave me some food for thought for this second iteration.
+
+| Feature | Affordances | Antiaffordances | Signifiers | Design Intention | Improvements |
+| --- | --- | --- | --- | --- | --- |
+Shortened Doorway (1m) | Kneeling and scooting or crawling through | Walking through upright | Low doorway, natural light and scent coming through | Traditional Japanese Tea Rooms are designed with shortened entrances to invite visitors to kneel, bringing them into a physical position of humility and mindfulness. | Kira suggested that the doorway was a bit abrupt, and moss could spill out of the doorway and into the hall as an invitation. I love this suggestion! Also, Kira noted that I might add nature sounds to the space. Sound might act as an additional signifier that there is a room beyond the doorway that could be navigated to. |
+Moss Cushions | Laying on / in | Standing on (too squishy for good balance) | Plush texture and large beanbag size | Providing a place to let the visitor's body relax fully. | Tucker suggested it might be difficult to sit in the moss while holding a cup of tea, and recommended some sort of cupholder. I will try to redesign with recesses in the wall that are right-sized for the cups, to afford a place to set things while you rest. |
+Tea Faucet | Pushing the lever below the spigot. | Pulling or twisting the lever. | The lever shape is wide and curved to match the rim of the cup, and sits below the spigot where the cup should go. | The spigot hight is ideal for dispensing tea into the visitor's cup when they are kneeling. | I should make the faucet recessed into the wall such that the recess is sized specifically to accommodate the cup. I should also put a receptacle underneath to catch any drips, which would further signify that the spigot dispenses a liquid.|
