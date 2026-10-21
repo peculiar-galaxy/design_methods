@@ -12,7 +12,7 @@ I want to recreate this experience of humility, natural connection, and peace fo
 
 ## Setting
 
-<!-- The sensory space would be located in the back passageways of a DMV office. After completing some form of abysmal paperwork, The Wanderer would be directed to take a dim hallway towards the exit. About halfway down the hallway, natural light and an earthy, piney scent emanate from the entrance to the sensory room. The entrance is a rounded, shortened pass-through, one meter tall, in the side of the hallway wall. Because of the shorter door entrance, if the Wanderer wanted to investigate, they would be compelled to stoop low or kneel to see inside the room. -->
+<!-- The sensory space would be located in the back passageways of a DMV office. After completing some form of abysmal paperwork, The Wanderer would be directed to take a dim hallway towards the exit. (In fact, there are two hallways. If the sensory space is occupied, people are directed through a regular exit. If the sensory space is free, the next person to finish their paperwork is directed the hallway with the sensory space to give them an opportunity to stop by, and to not be interrupted during the experience). About halfway down the hallway, natural light and an earthy, piney scent emanate from the entrance to the sensory room. The entrance is a rounded, shortened pass-through, one meter tall, in the side of the hallway wall. Because of the shorter door entrance, if the Wanderer wanted to investigate, they would be compelled to stoop low or kneel to see inside the room. -->
 
 ![Storyboard image](./storyboard-1.jpg)
 
@@ -38,3 +38,5 @@ The cookies are a shortbread flavored with powdered pine needles. They are butte
 ![Sensory Prototype image](./sensory-prototype.jpg)
 
 I modeled the ceramic plate and cup after lichens. The cookies are a store-bought placeholder, but I hope to bake some real pine-needle shortbread and see how it turns out! I also hope to brew a forest-y tea and see if the aroma is calming, if the heat transfers pleasantly from the cup to the hand, and if the organically-shaped rim of the cup is pleasant to drink from.
+
+I also crocheted a fern moss leaflet, which I will bring to class, as a sensory prototype for the enlarged moss texture that will cover the cushions.
